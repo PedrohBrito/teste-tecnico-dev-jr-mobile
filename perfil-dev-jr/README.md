@@ -115,16 +115,21 @@ Aplicativo criado em React Native com Expo para apresentar um perfil profissiona
 - **Projetos/Contato:** ...
 
 ## Organização do código
-- ...
+- Está tudo organizado, fácil de entender.
 
 ## Diferenciais
-- ...
+- Tem setas viradas para baixo no Tab Bar
+- Tem uma aba mostrando os meus repositórios
 
 ## Como executar o projeto
-1. ...
+Após você ter instalado as depenências, e entrado no prjeto, comece com:
+1. No terminal CMD, digite 'npm start';
+2. Agora escaneie o qr code que aparece no terminal;
+
+E estátudo pronto. Divirta-se!
 
 ## Autor
-Nome do aluno
+Pedro Cunha
 ```
 
 ---
@@ -136,9 +141,9 @@ Nome do aluno
 3. Ao finalizar, envie as seguintes informações:
 
 ```
-Nome:
-Turma:
-Link do seu repositório forkado no GitHub:
+Nome: Pedro Henrique Brito de Castro da Cunha
+Turma: 2TDS2
+Link do seu repositório forkado no GitHub: https://github.com/PedrohBrito/teste-tecnico-dev-jr-mobile.git
 ```
 
 O link deve apontar para o seu repositório público com o código desenvolvido.
