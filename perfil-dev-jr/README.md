@@ -126,10 +126,10 @@ Após você ter instalado as depenências, e entrado no prjeto, comece com:
 1. No terminal CMD, digite 'npm start';
 2. Agora escaneie o qr code que aparece no terminal;
 
-E estátudo pronto. Divirta-se!
+E está tudo pronto. Divirta-se!
 
 ## Autor
-Pedro Cunha
+Pedro H. B. C. Cunha
 ```
 
 ---
